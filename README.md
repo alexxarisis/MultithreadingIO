@@ -13,6 +13,8 @@ The changes took place in a part of the Kiwi OS, its storage system.
 
 All the changes are recorded in the `Edited Files` directory.
 
+*The means of running this have been lost in time, but the results still remain.*
+
 ## Results
 
 Test results for 1.000.000 IO operations, at different thread values.
